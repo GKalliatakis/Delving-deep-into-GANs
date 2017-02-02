@@ -17,7 +17,7 @@ Generative models are models that can learn to create data that is similar to da
 
 
 
-### Original Publication 
+### Opening Publication 
 Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.2661v1.pdf)  [[presentation]](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf) [[code]](https://github.com/goodfeli/adversarial) [[video]](https://www.youtube.com/watch?v=HN9NRhm9waY)
 
 ---
