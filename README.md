@@ -62,6 +62,9 @@ Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.266
 36. Ensembles of Generative Adversarial Network (2016) [[pdf]](https://arxiv.org/pdf/1612.00991.pdf)
 37. Improved generator objectives for GANs (2016) [[pdf]](https://arxiv.org/pdf/1612.02780.pdf)
 38. Learning from Simulated and Unsupervised Images through Adversarial Training (2016) by Apple [[pdf]](https://arxiv.org/pdf/1612.07828.pdf)
+39. Generative Mixture of Networks (2017) [[pdf]](https://arxiv.org/pdf/1702.03307.pdf)
+40. Generative Temporal Models with Memory (2017) [[pdf]](https://arxiv.org/pdf/1702.04649.pdf)
+41. Precise Recovery of Latent Vectors from Generative Adversarial Networks (2017) [[pdf]](https://openreview.net/pdf?id=HJC88BzFl)
 
 
 ----------
@@ -77,9 +80,10 @@ Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.266
 ### Courses / Tutorials (Webpages unless other is stated)
 - NIPS 2016 Tutorial: Generative Adversarial Networks (2016) [[pdf]](https://arxiv.org/pdf/1701.00160.pdf)
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
-- [Generative Models by OpenAI ](https://openai.com/blog/generative-models/)
+- [Generative Models by OpenAI](https://openai.com/blog/generative-models/)
 - [MNIST Generative Adversarial Model in Keras](https://oshearesearch.com/index.php/2016/07/01/mnist-generative-adversarial-model-in-keras/)
 - [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)
+- [Attacking machine learning with adversarial examples by OpenAI](https://openai.com/blog/adversarial-example-research/)
 
 ----------
 
