@@ -11,11 +11,13 @@ Generative models are models that can learn to create data that is similar to da
   Image taken from http://multithreaded.stitchfix.com/blog/2016/02/02/a-fontastic-voyage/<br>	
 </p>	
 
+**_This is going to be an evolving post and I will keep updating it (at least twice monthly) so make sure you have starred and forked this repository on GitHub before moving on !_**	
+	
+---
+
 ### Contributing
 Contributions are welcome !! If you have any suggestions (missing or new papers, missing repos or typos) you can pull a request or start a discussion.
 
-**_This is going to be an evolving post and I will keep updating it (at least twice monthly) so make sure you have starred and forked this repository on GitHub before moving on !_**	
-	
 ---	
 	
 	
@@ -151,14 +153,15 @@ Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.266
 	
 ----------	
 	
-### Courses / Tutorials (Webpages unless other is stated)	
+### Courses / Tutorials / Blogs (Webpages unless other is stated)	
 - NIPS 2016 Tutorial: Generative Adversarial Networks (2016) [[pdf]](https://arxiv.org/pdf/1701.00160.pdf)	
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)	
 - [Generative Models by OpenAI](https://openai.com/blog/generative-models/)	
 - [MNIST Generative Adversarial Model in Keras](https://oshearesearch.com/index.php/2016/07/01/mnist-generative-adversarial-model-in-keras/)	
 - [Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)	
 - [Attacking machine learning with adversarial examples by OpenAI](https://openai.com/blog/adversarial-example-research/)	
-	
+- [On the intuition behind deep learning & GANs — towards a fundamental understanding](https://blog.waya.ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935)
+- [SimGANs - a game changer in unsupervised learning, self driving cars, and more](https://blog.waya.ai/simgans-applied-to-autonomous-driving-5a8c6676e36b)
 ----------	
 	
 	
