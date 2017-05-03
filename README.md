@@ -15,23 +15,23 @@ Generative models are models that can learn to create data that is similar to da
 	
 ---
 
-### Contributing
+### :busts_in_silhouette: Contributing
 Contributions are welcome !! If you have any suggestions (missing or new papers, missing repos or typos) you can pull a request or start a discussion.
 
 ---	
 	
 	
 	
-### Opening Publication 	
+### :pushpin: Opening Publication 	
 Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.2661v1.pdf)  [[presentation]](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf) [[code]](https://github.com/goodfeli/adversarial) [[video]](https://www.youtube.com/watch?v=HN9NRhm9waY)	
 	
 ---	
 	
-### State-of-the-art papers (Descending order based on Google Scholar Citations)	
+### :clipboard: State-of-the-art papers (Descending order based on Google Scholar Citations)	
 	
 1. Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGANs) (2015) [[pdf]](https://arxiv.org/pdf/1511.06434v2.pdf)	
 2. Explaining and Harnessing Adversarial Examples(2014) [[pdf]](https://arxiv.org/pdf/1412.6572.pdf)	
-3. Semi-Supervised Learning with Deep Generative Models*1 (2014) [[pdf]]( https://arxiv.org/pdf/1406.5298v2.pdf )	
+3. Semi-Supervised Learning with Deep Generative Models (2014) [[pdf]]( https://arxiv.org/pdf/1406.5298v2.pdf )	
 4. Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks (LAPGAN) (2015) [[pdf]](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf)	
 5. Improved Techniques for Training GANs (2016) [[pdf]](https://arxiv.org/pdf/1606.03498v1.pdf)	
 6. Conditional Generative Adversarial Nets (CGAN) (2014) [[pdf]](https://arxiv.org/pdf/1411.1784v1.pdf) 	
@@ -150,20 +150,20 @@ Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.266
 119. :new: Adversarial Training Methods for Semi-Supervised Text Classification (2016) [[pdf]](https://arxiv.org/pdf/1605.07725)
 ----------	
 	
-### Theory	
+### :notebook_with_decorative_cover: Theory	
 - Improved Techniques for Training GANs [[pdf]](http://papers.nips.cc/paper/6124-improved-techniques-for-training-gans.pdf) 	
 - Energy-Based GANs & other Adversarial things by Yann Le Cun [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)	
 - Mode RegularizedGenerative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1612.02136.pdf)	
 	
 ----------	
 	
-### Presentations	
+### :hourglass: Presentations	
 - Generative Adversarial Networks (GANs) by Ian Goodfellow [[pdf]](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf) 	
 - Learning Deep Generative Models by Russ Salakhutdinov [[pdf]](http://www.cs.toronto.edu/~rsalakhu/talk_Montreal_2016_Salakhutdinov.pdf) 	
 	
 ----------	
 	
-### Courses / Tutorials / Blogs (Webpages unless other is stated)	
+### :books: Courses / Tutorials / Blogs (Webpages unless other is stated)	
 - NIPS 2016 Tutorial: Generative Adversarial Networks (2016) [[pdf]](https://arxiv.org/pdf/1701.00160.pdf)	
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)	
 - [Generative Models by OpenAI](https://openai.com/blog/generative-models/)	
@@ -175,25 +175,62 @@ Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.266
 ----------	
 	
 	
-### Resources / Models (GitHub repositories unless other is stated)	
-- [DCGAN](https://github.com/Newmu/dcgan_code) 	
-- [DCGAN in Tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)	
-- [DCGAN in Torch](https://github.com/soumith/dcgan.torch)	
-- [DCGAN in Keras](https://github.com/jacobgil/keras-dcgan)	
-- [Generating Natural Images using Neural Networks (Eyescream Project by Facebook)](https://github.com/facebook/eyescream)	
-- [Adversarial AutoEncoder](https://github.com/musyoku/adversarial-autoencoder)	
-- [Text To Image Synthesis Using Thought Vectors](https://github.com/paarthneekhara/text-to-image) 	
-- [Adversarial example generator](https://github.com/e-lab/torch-toolbox/tree/master/Adversarial) 	
-- [Semi-supervised learning (SSL) with deep generative models](https://github.com/dpkingma/nips14-ssl)	
-- [Improved Techniques for Training GANs](https://github.com/openai/improved-gan)	
-- [Generative Moment Matching Networks (GMMNs)](https://github.com/yujiali/gmmn)	
-- [Adversarial Video Generation](https://github.com/dyelax/Adversarial_Video_Generation)	
-- [Image-to-image translation using conditional adversarial nets (pix2pix)](https://github.com/phillipi/pix2pix	)
-- [Cleverhans, A library for benchmarking vulnerability to adversarial examples](https://github.com/openai/cleverhans)	
+### :package: Resources / Models (Descending order based on GitHub stars)	
+- [Image super-resolution through deep learning](https://github.com/david-gpu/srez)
+- [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)](https://github.com/junyanz/CycleGAN)
+- [Image-to-image translation with conditional adversarial nets (pix2pix)](https://github.com/phillipi/pix2pix)
+- [Deep Convolutional Generative Adversarial Networks (DCGAN)](https://github.com/Newmu/dcgan_code)
+- [Generative Visual Manipulation on the Natural Image Manifold (iGAN)](https://github.com/junyanz/iGAN)
+- [Tensorflow implementation of Deep Convolutional Generative Adversarial Networks (DCGAN)](https://github.com/carpedm20/DCGAN-tensorflow)									
+- [Neural Photo Editing with Introspective Adversarial Networks](https://github.com/ajbrock/Neural-Photo-Editor)
+- [Generative Adversarial Text to Image Synthesis ](https://github.com/paarthneekhara/text-to-image)
+- [Wasserstein GAN](https://github.com/martinarjovsky/WassersteinGAN)									
+- [Improved Techniques for Training GANs](https://github.com/openai/improved-gan)
+- [cleverhans: A library for benchmarking vulnerability to adversarial examples](https://github.com/openai/cleverhans)"
+- [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](https://github.com/hanzhanggit/StackGAN)									
+- [Semantic Image Inpainting with Perceptual and Contextual Losses (2016) ](https://github.com/bamos/dcgan-completion.tensorflow)
+- [Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks (The Eyescream Project)](https://github.com/facebook/eyescream)									
+- [Unsupervised Cross-Domain Image Generation](https://github.com/yunjey/domain-transfer-network)
+- [Generating Videos with Scene Dynamics](https://github.com/cvondrick/videogan)
+- [Improved Training of Wasserstein GANs](https://github.com/igul222/improved_wgan_training)
+- [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://github.com/carpedm20/DiscoGAN-pytorch)
+- [HyperGAN](https://github.com/255bits/HyperGAN)									
+- [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (KERAS-DCGAN)](https://github.com/jacobgil/keras-dcgan)									
+- [Synthesizing the preferred inputs for neurons in neural networks via deep generator networks](https://github.com/Evolving-AI-Lab/synthesizing)									
+- [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space](https://github.com/Evolving-AI-Lab/ppgn)
+- [Image-to-image translation using conditional adversarial nets](https://github.com/yenchenlin/pix2pix-tensorflow)
+- [Deep multi-scale video prediction beyond mean square error](https://github.com/dyelax/Adversarial_Video_Generation)
+- [Learning from Simulated and Unsupervised Images through Adversarial Training](https://github.com/carpedm20/simulated-unsupervised-tensorflow)									
+- [Learning What and Where to Draw](https://github.com/reedscot/nips2016)
+- [Conditional Image Synthesis With Auxiliary Classifier GANs](https://github.com/buriburisuri/ac-gan)
+- [Precomputed real-time texture synthesis with markovian generative adversarial networks](https://github.com/chuanli11/MGANs)
+- [Unrolled Generative Adversarial Networks](https://github.com/poolio/unrolled_gan)
+- [Adversarially Learned Inference (2016) (ALI)](https://github.com/IshmaelBelghazi/ALI)
+- [Energy-based generative adversarial network](https://github.com/buriburisuri/ebgan)
+- [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://github.com/zck119/3dgan-release)									
+- [Generating images with recurrent adversarial networks (sequence_gan)](https://github.com/ofirnachum/sequence_gan)
+- [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection](https://github.com/xiaolonw/adversarial-frcnn)
+- [Pixel-Level Domain Transfer](https://github.com/fxia22/PixelDTGAN)									
+- [Autoencoding beyond pixels using a learned similarity metric](https://github.com/andersbll/autoencoding_beyond_pixels)
+- [Sampling Generative Networks](https://github.com/dribnet/plat)									
+- [Invertible Conditional GANs for image editing](https://github.com/Guim3/IcGAN)
+- [Invertible Conditional GANs for image editing](https://github.com/Guim3/IcGAN)
+- [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://github.com/leehomyc/Photo-Realistic-Super-Resoluton)									
+- [Generative Image Modeling using Style and Structure Adversarial Networks (ss-gan)](https://github.com/xiaolonw/ss-gan)
+- [Adversarial Autoencoders ](https://github.com/musyoku/adversarial-autoencoder)
+- [SalGAN: Visual Saliency Prediction with Generative Adversarial Networks](https://github.com/imatge-upc/saliency-salgan-2017)
+- [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://github.com/buriburisuri/supervised_infogan)									
+- [Coupled Generative Adversarial Networks](https://github.com/mingyuliutw/CoGAN)
+- [Context Encoders: Feature Learning by Inpainting (2016)](https://github.com/jazzsaxmafia/Inpainting)
+- [C-RNN-GAN: Continuous recurrent neural networks with adversarial training](https://github.com/olofmogren/c-rnn-gan)
+- [Generative face completion (2017)](https://github.com/Yijunmaverick/GenerativeFaceCompletion)
+- [Conditional Generative Adversarial Nets](https://github.com/zhangqianhui/Conditional-Gans)
+- [Least Squares Generative Adversarial Networks](https://github.com/pfnet-research/chainer-LSGAN)
+- [Improving Generative Adversarial Networks with Denoising Feature Matching](https://github.com/hvy/chainer-gan-denoising-feature-matching)
 	
 ----------	
 	
-### Frameworks & Libraries (Descending order based on GitHub stars)	
+### :electric_plug: Frameworks & Libraries (Descending order based on GitHub stars)	
 - Tensorflow by Google  [C++ and CUDA]: [[homepage]](https://www.tensorflow.org/) [[github]](https://github.com/tensorflow/tensorflow)	
 - Caffe by Berkeley Vision and Learning Center (BVLC)  [C++]: [[homepage]](http://caffe.berkeleyvision.org/) [[github]](https://github.com/BVLC/caffe) [[Installation Instructions]](Caffe_Installation/README.md)	
 - Keras by François Chollet  [Python]: [[homepage]](https://keras.io/) [[github]](https://github.com/fchollet/keras)	
