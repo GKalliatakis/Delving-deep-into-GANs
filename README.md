@@ -3,7 +3,7 @@
 
 ## A curated list of state-of-the-art publications and resources about Generative Adversarial Networks (GANs) and their applications.	
 	
-### Overview	
+### Background	
 Generative models are models that can learn to create data that is similar to data that we give them. One of the most promising approaches of those models are Generative Adversarial Networks (GANs), a branch of unsupervised machine learning implemented by a system of two neural networks competing against each other in a zero-sum game framework. They were first introduced by Ian Goodfellow et al. in 2014. This repository aims at presenting an elaborate list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.	
 	
 <p align="center">	
@@ -13,6 +13,16 @@ Generative models are models that can learn to create data that is similar to da
 
 **_This is going to be an evolving repo and I will keep updating it (at least twice monthly) so make sure you have starred and forked this repository before moving on !_**	
 	
+---
+
+### :link: Contents
+* [Opening Publication](#pushpin-opening-publication)
+* [State-of-the-art papers](#clipboard-state-of-the-art-papers-descending-order-based-on-google-scholar-citations---number-in-brackets-denotes-the-current-number-of-citations)
+* [Theory](#notebook_with_decorative_cover-theory)
+* [Presentations](#nut_and_bolt-presentations)
+* [Courses](#books-courses--tutorials--blogs-webpages-unless-other-is-stated)
+* [Code / Resources / Models](#package-resources--models-descending-order-based-on-github-stars)
+* [Frameworks & Libraries](#electric_plug-frameworks--libraries-descending-order-based-on-github-stars)
 ---
 
 ### :busts_in_silhouette: Contributing
