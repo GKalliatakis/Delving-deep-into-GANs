@@ -1,7 +1,7 @@
 # Delving deep into Generative Adversarial Networks (GANs) 	
 	
 
-## A curated list of state-of-the-art publications and resources about Generative Adversarial Networks (GANs) and their applications.	
+## A curated, quasi-exhaustive list of state-of-the-art publications and resources about Generative Adversarial Networks (GANs) and their applications.	
 	
 ### Background	
 Generative models are models that can learn to create data that is similar to data that we give them. One of the most promising approaches of those models are Generative Adversarial Networks (GANs), a branch of unsupervised machine learning implemented by a system of two neural networks competing against each other in a zero-sum game framework. They were first introduced by Ian Goodfellow et al. in 2014. This repository aims at presenting an elaborate list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.	
@@ -103,7 +103,7 @@ Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.266
 63. Stacked Generative Adversarial Networks (SGAN) (2016) [[pdf]](https://arxiv.org/pdf/1612.04357.pdf) [4]
 64. ArtGAN: Artwork Synthesis with Conditional Categorial GANs  (2017) [[pdf]](https://arxiv.org/pdf/1702.03410.pdf) [4]
 65. GP-GAN: Towards Realistic High-Resolution Image Blending  (2017) [[pdf]](https://arxiv.org/pdf/1703.07195.pdf) [4]
-66. :new: Adversarial Attacks on Neural Network Policies(2017) [[pdf]](https://arxiv.org/pdf/1702.02284.pdf) [4]
+66. :new: Adversarial Attacks on Neural Network Policies (2017) [[pdf]](https://arxiv.org/pdf/1702.02284.pdf) [4]
 67. LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation  (2017) [[pdf]](https://arxiv.org/pdf/1703.01560.pdf) [3]
 68. Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery (AnoGAN) (2017) [[pdf]](https://arxiv.org/pdf/1703.05921.pdf) [3]
 69. Temporal Generative Adversarial Nets (TGAN) (2016) [[pdf]](https://arxiv.org/pdf/1611.06624.pdf) [3]
@@ -191,23 +191,23 @@ Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.266
 151. Reconstruction of three-dimensional porous media using generative adversarial neural networks(2017) [[pdf]](https://arxiv.org/pdf/1704.03225) [0]
 152. Steganographic Generative Adversarial Networks(2017) [[pdf]](https://arxiv.org/pdf/1703.05502) [0]
 153. :new: Generative Cooperative Net for Image Generation and Data Augmentation (2017) [[pdf]](https://arxiv.org/pdf/1705.02887.pdf) [0]
-154. :new: The Space of Transferable Adversarial Examples(2017) [[pdf]](https://arxiv.org/pdf/1704.03453) [0]
-155. :new: Deep Generative Adversarial Compression Artifact Removal(2017) [[pdf]](https://arxiv.org/pdf/1704.02518) [0]
-156. :new: Adversarial Generator-Encoder Networks(2017) [[pdf]](https://arxiv.org/pdf/1704.02304) [0]
-157. :new: Training Triplet Networks with GAN(2017) [[pdf]](https://arxiv.org/pdf/1704.02227) [0]
-158. :new: Universal Adversarial Perturbations Against Semantic Image Segmentation(2017) [[pdf]](https://arxiv.org/pdf/1704.05712) [0]
-159. :new: Learning Representations of Emotional Speech with Deep Convolutional Generative Adversarial Networks(2017) [[pdf]](https://arxiv.org/pdf/1705.02394) [0]
-160. :new: CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks(2017) [[pdf]](https://arxiv.org/pdf/1705.02355) [0]
-161. :new: Generative Adversarial Trainer: Defense to Adversarial Perturbations with GAN(2017) [[pdf]](https://arxiv.org/pdf/1705.03387) [0]
-162. :new: Geometric GAN(2017) [[pdf]](https://arxiv.org/pdf/1705.02894.pdf) [0]
-163. :new: Face Super-Resolution Through Wasserstein GANs(2017) [[pdf]](https://arxiv.org/pdf/1705.02438) [0]
-164. :new: Training Triplet Networks with GAN(2017) [[pdf]](https://arxiv.org/pdf/1704.02227) [0]
-165. :new: Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks(2017) [[pdf]](https://arxiv.org/pdf/1704.01155) [0]
-166. :new: Voice Conversion from Unaligned Corpora using Variational Autoencoding Wasserstein Generative Adversarial Networks(2017) [[pdf]](https://arxiv.org/pdf/1704.00849.pdf) [0]
-167. :new: Adversarial Image Perturbation for Privacy Protection--A Game Theory Perspective(2017) [[pdf]](https://arxiv.org/pdf/1703.09471) [0]
-168. :new: Adversarial Transformation Networks: Learning to Generate Adversarial Examples(2017) [[pdf]](https://arxiv.org/pdf/1703.09387) [0]
-169. :new: SCAN: Structure Correcting Adversarial Network for Chest X-rays Organ Segmentation(2017) [[pdf]](https://arxiv.org/pdf/1703.08770) [0]
-170. :new: Adversarial Examples for Semantic Segmentation and Object Detection(2017) [[pdf]](https://arxiv.org/pdf/1703.09387) [0]
+154. :new: The Space of Transferable Adversarial Examples (2017) [[pdf]](https://arxiv.org/pdf/1704.03453) [0]
+155. :new: Deep Generative Adversarial Compression Artifact Removal (2017) [[pdf]](https://arxiv.org/pdf/1704.02518) [0]
+156. :new: Adversarial Generator-Encoder Networks (2017) [[pdf]](https://arxiv.org/pdf/1704.02304) [0]
+157. :new: Training Triplet Networks with GAN (2017) [[pdf]](https://arxiv.org/pdf/1704.02227) [0]
+158. :new: Universal Adversarial Perturbations Against Semantic Image Segmentation (2017) [[pdf]](https://arxiv.org/pdf/1704.05712) [0]
+159. :new: Learning Representations of Emotional Speech with Deep Convolutional Generative Adversarial Networks (2017) [[pdf]](https://arxiv.org/pdf/1705.02394) [0]
+160. :new: CaloGAN: Simulating 3D High Energy Particle Showers in Multi-Layer Electromagnetic Calorimeters with Generative Adversarial Networks (2017) [[pdf]](https://arxiv.org/pdf/1705.02355) [0]
+161. :new: Generative Adversarial Trainer: Defense to Adversarial Perturbations with GAN (2017) [[pdf]](https://arxiv.org/pdf/1705.03387) [0]
+162. :new: Geometric GAN (2017) [[pdf]](https://arxiv.org/pdf/1705.02894.pdf) [0]
+163. :new: Face Super-Resolution Through Wasserstein GANs (2017) [[pdf]](https://arxiv.org/pdf/1705.02438) [0]
+164. :new: Training Triplet Networks with GAN (2017) [[pdf]](https://arxiv.org/pdf/1704.02227) [0]
+165. :new: Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks (2017) [[pdf]](https://arxiv.org/pdf/1704.01155) [0]
+166. :new: Voice Conversion from Unaligned Corpora using Variational Autoencoding Wasserstein Generative Adversarial Networks (2017) [[pdf]](https://arxiv.org/pdf/1704.00849.pdf) [0]
+167. :new: Adversarial Image Perturbation for Privacy Protection--A Game Theory Perspective (2017) [[pdf]](https://arxiv.org/pdf/1703.09471) [0]
+168. :new: Adversarial Transformation Networks: Learning to Generate Adversarial Examples (2017) [[pdf]](https://arxiv.org/pdf/1703.09387) [0]
+169. :new: SCAN: Structure Correcting Adversarial Network for Chest X-rays Organ Segmentation (2017) [[pdf]](https://arxiv.org/pdf/1703.08770) [0]
+170. :new: Adversarial Examples for Semantic Segmentation and Object Detection (2017) [[pdf]](https://arxiv.org/pdf/1703.09387) [0]
 
 
 
