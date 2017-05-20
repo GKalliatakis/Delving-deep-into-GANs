@@ -21,7 +21,7 @@ Generative models are models that can learn to create data that is similar to da
 * [Theory](#notebook_with_decorative_cover-theory)
 * [Presentations](#nut_and_bolt-presentations)
 * [Courses](#books-courses--tutorials--blogs-webpages-unless-other-is-stated)
-* [Code / Resources / Models](#package-resources--models-descending-order-based-on-github-stars)
+* [Code / Resources / Models](#package-resources--models-descending-order-based-on-github-stars---number-in-brackets-denotes-the-current-number-of-stars)
 * [Frameworks & Libraries](#electric_plug-frameworks--libraries-descending-order-based-on-github-stars)
 ---
 
@@ -241,7 +241,7 @@ Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.266
 ----------	
 	
 	
-### :package: Resources / Models (Descending order based on GitHub stars)	
+### :package: Resources / Models (Descending order based on GitHub stars - number in brackets denotes the current number of stars)	
 - [Image super-resolution through deep learning](https://github.com/david-gpu/srez) [4306]
 - [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)](https://github.com/junyanz/CycleGAN) [3825]
 - [Image-to-image translation with conditional adversarial nets (pix2pix)](https://github.com/phillipi/pix2pix) [2992]
