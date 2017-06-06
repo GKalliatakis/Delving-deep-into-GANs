@@ -36,7 +36,7 @@ Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.266
 	
 ---	
 	
-### :clipboard: State-of-the-art papers (Descending order based on Google Scholar Citations - number in brackets denotes the current number of citations)	
+### :clipboard: State-of-the-art papers (Descending order based on Google Scholar Citations)	
 	
 S/N|Paper|Year|Citations
 :---:|:---:|:---:|:---:
@@ -261,7 +261,7 @@ S/N|Paper|Year|Citations
 ----------	
 	
 	
-### :package: Resources / Models (Descending order based on GitHub stars - number in brackets denotes the current number of stars)	
+### :package: Resources / Models (Descending order based on GitHub stars)	
 S/N|Name|Repo|Stars
 :---:|:---:|:---:|:---:
 |1|Image super-resolution through deep learning|https://github.com/david-gpu/srez|4325
