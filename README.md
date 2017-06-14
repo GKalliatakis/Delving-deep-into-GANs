@@ -17,11 +17,11 @@ Generative models are models that can learn to create data that is similar to da
 
 ### :link: Contents
 * [Opening Publication](#pushpin-opening-publication)
-* [State-of-the-art papers](#clipboard-state-of-the-art-papers-descending-order-based-on-google-scholar-citations---number-in-brackets-denotes-the-current-number-of-citations)
+* [State-of-the-art papers](#clipboard-state-of-the-art-papers-descending-order-based-on-google-scholar-citations)
 * [Theory](#notebook_with_decorative_cover-theory)
 * [Presentations](#nut_and_bolt-presentations)
 * [Courses](#books-courses--tutorials--blogs-webpages-unless-other-is-stated)
-* [Code / Resources / Models](#package-resources--models-descending-order-based-on-github-stars---number-in-brackets-denotes-the-current-number-of-stars)
+* [Code / Resources / Models](#package-resources--models-descending-order-based-on-github-stars)
 * [Frameworks & Libraries](#electric_plug-frameworks--libraries-descending-order-based-on-github-stars)
 ---
 
@@ -229,6 +229,17 @@ S/N|Paper|Year|Citations
 |187|Weakly Supervised Generative Adversarial Networks for 3D Reconstruction  [[pdf]](https://arxiv.org/abs/1705.10904)|2017|0
 |188|Adversarial Generation of Natural Language [[pdf]](https://arxiv.org/abs/1705.10929)|2017|0
 |189|:new: Objective-Reinforced Generative Adversarial Networks (ORGAN) [[pdf]](https://arxiv.org/pdf/1705.10843.pdf)|2017|0
+|190|:new: SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation(2017) [[pdf]](https://arxiv.org/abs/1706.01805) [0]
+|191|:new: Language Generation with Recurrent Generative Adversarial Networks without Pre-training|2017(https://arxiv.org/abs/1706.01399)|0
+|192|:new: DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data(2017) [[pdf]](https://arxiv.org/abs/1706.02071) [0]
+|193|:new: Depth Structure Preserving Scene Image Generation|2017(https://arxiv.org/abs/1706.00212)|0
+|194|:new: From source to target and back: symmetric bi-directional adaptive GAN(2017) [[pdf]](https://arxiv.org/abs/1705.08824) [0]
+|195|:new: Synthesizing Filamentary Structured Images with GANs|2017(https://arxiv.org/abs/1706.02185)|0
+|196|:new: TextureGAN: Controlling Deep Image Synthesis with Texture Patches(2017) [[pdf]](https://arxiv.org/abs/1706.02823) [0]
+|197|:new: Generate Identity-Preserving Faces by Generative Adversarial Networks|2017(https://arxiv.org/abs/1706.03227)|0
+|198|:new: Style Transfer for Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN(2017) [[pdf]](https://arxiv.org/abs/1706.03319) [0]
+|199|:new: Gradient descent GAN optimization is locally stable|2017(https://arxiv.org/abs/1706.04156)|0
+|200|:new: Neural Face Editing with Intrinsic Image Disentangling(2017) [[pdf]](https://arxiv.org/abs/1704.04131) [0]
 
 
 
@@ -329,8 +340,8 @@ S/N|Name|Repo|Stars
 - Convnetjs by Andrej Karpathy [JavaScript]: [[homepage]](http://cs.stanford.edu/people/karpathy/convnetjs/) [[github]](https://github.com/karpathy/convnetjs)	
 - Theano by Université de Montréal  [Python]: [[homepage]](http://deeplearning.net/software/theano/) [[github]](https://github.com/Theano/Theano) 	
 - Deeplearning4j by startup Skymind  [Java]: [[homepage]](https://deeplearning4j.org/) [[github]](https://github.com/deeplearning4j/deeplearning4j) 	
-- Paddle by Baidu  [C++]: [[homepage]](http://www.paddlepaddle.org/) [[github]](https://github.com/PaddlePaddle/Paddle) 	
-- Caffe2 by Facebook Open Source [C++ & Python]: [[github]](https://github.com/caffe2/caffe2) [[web]](https://caffe2.ai/)
+- :arrow_up_small: Caffe2 by Facebook Open Source [C++ & Python]: [[github]](https://github.com/caffe2/caffe2) [[web]](https://caffe2.ai/)
+- Paddle by Baidu  [C++]: [[homepage]](http://www.paddlepaddle.org/) [[github]](https://github.com/PaddlePaddle/Paddle)
 - Deep Scalable Sparse Tensor Network Engine (DSSTNE) by Amazon  [C++]: [[github]](https://github.com/amznlabs/amazon-dsstne) 
 - Neon by Nervana Systems  [Python & Sass]: [[homepage]](http://neon.nervanasys.com/docs/latest/) [[github]](https://github.com/NervanaSystems/neon) 	
 - Chainer  [Python]: [[homepage]](http://chainer.org/) [[github]](https://github.com/pfnet/chainer) 	
