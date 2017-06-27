@@ -40,120 +40,120 @@ Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.266
 	
 S/N|Paper|Year|Citations
 :---:|:---:|:---:|:---:
-|1|Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGANs) [[pdf]](https://arxiv.org/pdf/1511.06434v2.pdf)|2015|326
-|2|Explaining and Harnessing Adversarial Examples [[pdf]](https://arxiv.org/pdf/1412.6572.pdf)|2014|240
-|3|Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks (LAPGAN) [[pdf]](https://arxiv.org/pdf/1506.05751.pdf)|2015|227
-|4|Semi-Supervised Learning with Deep Generative Models [[pdf]](https://arxiv.org/pdf/1406.5298v2.pdf )|2014|217
-|5|Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks (MGAN) [[pdf]](https://arxiv.org/pdf/1604.04382.pdf)|2016|100
+|1|Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGANs) [[pdf]](https://arxiv.org/pdf/1511.06434v2.pdf)|2015|423
+|2|Explaining and Harnessing Adversarial Examples [[pdf]](https://arxiv.org/pdf/1412.6572.pdf)|2014|285
+|3|Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks (LAPGAN) [[pdf]](https://arxiv.org/pdf/1506.05751.pdf)|2015|252
+|4|Semi-Supervised Learning with Deep Generative Models [[pdf]](https://arxiv.org/pdf/1406.5298v2.pdf )|2014|246
+|5| :arrow_up_small: Conditional Generative Adversarial Nets (CGAN) [[pdf]](https://arxiv.org/pdf/1411.1784v1.pdf)|2014|125
 |6|Improved Techniques for Training GANs [[pdf]](https://arxiv.org/pdf/1606.03498v1.pdf )|2016|99
-|7|Conditional Generative Adversarial Nets (CGAN) [[pdf]](https://arxiv.org/pdf/1411.1784v1.pdf)|2014|99
-|8|Context Encoders: Feature Learning by Inpainting [[pdf]](https://arxiv.org/pdf/1604.07379)|2016|75
-|9|Deep multi-scale video prediction beyond mean square error [[pdf]](https://arxiv.org/pdf/1511.05440.pdf)|2015|72
-|10|Generative Adversarial Text to Image Synthesis [[pdf]](https://arxiv.org/pdf/1605.05396)|2016|69
-|11|Autoencoding beyond pixels using a learned similarity metric (VAE-GAN) [[pdf]](https://arxiv.org/pdf/1512.09300.pdf)|2015|65
-|12|Adversarial Autoencoders [[pdf]](https://arxiv.org/pdf/1511.05644.pdf)|2015|65
-|13|InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[pdf]](https://arxiv.org/pdf/1606.03657)|2016|65
-|14|Generative Moment Matching Networks [[pdf]](https://arxiv.org/pdf/1502.02761.pdf)|2015|61
-|15|Energy-based Generative Adversarial Network (EBGAN) [[pdf]](https://arxiv.org/pdf/1609.03126.pdf)|2016|51
-|16|Conditional Image Generation with PixelCNN Decoders [[pdf]](https://arxiv.org/pdf/1606.05328.pdf)|2015|50
-|17|Generating Images with Perceptual Similarity Metrics based on Deep Networks  [[pdf]](https://arxiv.org/pdf/1602.02644)|2016|45
-|18|Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN) [[pdf]](https://arxiv.org/pdf/1609.04802.pdf)|2016|44
-|19|Adversarial Feature Learning (BiGAN) [[pdf]](https://arxiv.org/pdf/1605.09782v6.pdf)|2016|42
-|20|Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples [[pdf]](https://arxiv.org/pdf/1602.02697.pdf)|2016|39
-|21|Generative Visual Manipulation on the Natural Image Manifold (iGAN) [[pdf]](https://arxiv.org/pdf/1609.03552.pdf)|2016|39
-|22|Improving Variational Inference with Inverse Autoregressive Flow [[pdf]](https://arxiv.org/pdf/1606.04934)|2016|37
-|23|Wasserstein GAN (WGAN) [[pdf]](https://arxiv.org/pdf/1701.07875.pdf)|2017|36
-|24|Generative Image Modeling using Style and Structure Adversarial Networks (S^2GAN) [[pdf]](https://arxiv.org/pdf/1603.05631.pdf)|2016|35
-|25|Image-to-Image Translation with Conditional Adversarial Networks (pix2pix) [[pdf]](https://arxiv.org/pdf/1611.07004.pdf)|2016|35
-|26|Adversarially Learned Inference (ALI) [[pdf]](https://arxiv.org/pdf/1606.00704.pdf)|2016|35
-|27|Conditional generative adversarial nets for convolutional face generation[[pdf]](https://pdfs.semanticscholar.org/42f6/f5454dda99d8989f9814989efd50fe807ee8.pdf)|2014|33
-|28|Unsupervised Learning for Physical Interaction through Video Prediction  [[pdf]](https://arxiv.org/pdf/1605.07157)|2016|32
-|29|f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization [[pdf]](https://arxiv.org/pdf/1606.00709.pdf)|2016|32
-|30|Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks (CatGAN) [[pdf]](https://arxiv.org/pdf/1511.06390.pdf)|2015|31
-|31|Generating images with recurrent adversarial networks [[pdf]](https://arxiv.org/pdf/1602.05110.pdf)|2016|31
-|32|Attend, infer, repeat: Fast scene understanding with generative models [[pdf]](https://arxiv.org/pdf/1603.08575.pdf)|2016|30
-|33|Training generative neural networks via Maximum Mean Discrepancy optimization [[pdf]](https://arxiv.org/pdf/1505.03906.pdf)|2015|29
-|34|Generating Videos with Scene Dynamics (VGAN) [[pdf]](http://web.mit.edu/vondrick/tinyvideo/paper.pdf)|2016|29
-|35|Synthesizing the preferred inputs for neurons in neural networks via deep generator networks  [[pdf]](https://arxiv.org/pdf/1605.09304)|2016|22
-|36|Coupled Generative Adversarial Networks (CoGAN) [[pdf]](https://arxiv.org/pdf/1606.07536)|2016|21
-|37|StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks   [[pdf]](https://arxiv.org/pdf/1612.03242.pdf)|2016|19
-|38|SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient   [[pdf]](https://arxiv.org/pdf/1609.05473.pdf)|2016|18
-|39|Semantic Image Inpainting with Perceptual and Contextual Losses  [[pdf]](https://arxiv.org/pdf/1607.07539.pdf)|2016|17
-|40|Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space (PPGN) [[pdf]](https://arxiv.org/pdf/1612.00005.pdf)|2016|17
-|41|Generative Adversarial Imitation Learning [[pdf]](https://arxiv.org/pdf/1606.03476)|2016|17
-|42|Unsupervised Cross-Domain Image Generation (DTN) [[pdf]](https://arxiv.org/pdf/1611.02200.pdf)|2016|16
-|43|Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling (3D-GAN) [[pdf]](https://arxiv.org/pdf/1610.07584)|2016|14
-|44|Pixel-Level Domain Transfer  [[pdf]](https://arxiv.org/pdf/1603.07442)|2016|13
-|45|Learning What and Where to Draw (GAWWN) [[pdf]](https://arxiv.org/pdf/1610.02454v1.pdf)|2016|10
-|46|Conditional Image Synthesis with Auxiliary Classifier GANs (AC-GAN) [[pdf]](https://arxiv.org/pdf/1610.09585.pdf)|2016|10
-|47|Amortised MAP Inference for Image Super-resolution (AffGAN) [[pdf]](https://arxiv.org/pdf/1610.04490.pdf)|2016|10
-|48|Full Resolution Image Compression with Recurrent Neural Networks[[pdf]](https://arxiv.org/pdf/1608.05148)|2016|10
-|49|Learning in Implicit Generative Models [[pdf]](https://arxiv.org/pdf/1610.03483.pdf)|2016|9
-|50|VIME: Variational Information Maximizing Exploration [[pdf]](https://arxiv.org/pdf/1605.09674)|2016|9
-|51|Unrolled Generative Adversarial Networks (Unrolled GAN) [[pdf]](https://arxiv.org/pdf/1611.02163.pdf)|2016|9
-|52|Towards Principled Methods for Training Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1701.04862.pdf)|2017|9
-|53|Semantic Segmentation using Adversarial Networks  [[pdf]](https://arxiv.org/pdf/1611.08408.pdf)|2016|9
-|54|Neural Photo Editing with Introspective Adversarial Networks (IAN) [[pdf]](https://arxiv.org/pdf/1609.07093.pdf)|2016|8
-|55|Mode Regularized Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1612.02136)|2016|8
-|56|Learning a Driving Simulator[[pdf]](https://arxiv.org/pdf/1608.01230)|2016|7
-|57|Learning to Protect Communications with Adversarial Neural Cryptography[[pdf]](https://arxiv.org/pdf/1610.06918)|2016|7
-|58|On the Quantitative Analysis of Decoder-Based Generative Models [[pdf]](https://arxiv.org/pdf/1611.04273.pdf)|2016|6
-|59|Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro[[pdf]](https://arxiv.org/pdf/1701.07717)|2017|6
-|60|Cooperative Training of Descriptor and Generator Network [[pdf]](https://arxiv.org/pdf/1609.09408)|2016|5
-|61|Connecting Generative Adversarial Networks and Actor-Critic Methods [[pdf]](https://arxiv.org/pdf/1610.01945.pdf)|2016|4
-|62|Learning from Simulated and Unsupervised Images through Adversarial Training (SimGAN) by Apple [[pdf]](https://arxiv.org/pdf/1612.07828v1.pdf)|2016|4
-|63|Stacked Generative Adversarial Networks (SGAN) [[pdf]](https://arxiv.org/pdf/1612.04357.pdf)|2016|4
-|64|ArtGAN: Artwork Synthesis with Conditional Categorial GANs  [[pdf]](https://arxiv.org/pdf/1702.03410.pdf)|2017|4
-|65|GP-GAN: Towards Realistic High-Resolution Image Blending  [[pdf]](https://arxiv.org/pdf/1703.07195.pdf)|2017|4
-|66|Adversarial Attacks on Neural Network Policies[[pdf]](https://arxiv.org/pdf/1702.02284.pdf)|2017|4
-|67|LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation  [[pdf]](https://arxiv.org/pdf/1703.01560.pdf)|2017|3
-|68|Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery (AnoGAN) [[pdf]](https://arxiv.org/pdf/1703.05921.pdf)|2017|3
-|69|Temporal Generative Adversarial Nets (TGAN) [[pdf]](https://arxiv.org/pdf/1611.06624.pdf)|2016|3
-|70|Invertible Conditional GANs for image editing (IcGAN) [[pdf]](https://arxiv.org/pdf/1611.06355.pdf)|2016|3
-|71|Contextual RNN-GANs for Abstract Reasoning Diagram Generation (Context-RNN-GAN) [[pdf]](https://arxiv.org/pdf/1609.09444.pdf)|2016|3
-|72|Generative Adversarial Nets with Labeled Data by Activation Maximization (AMGAN) [[pdf]](https://arxiv.org/pdf/1703.02000.pdf)|2017|3
-|73|Imitating Driver Behavior with Generative Adversarial Networks[[pdf]](https://arxiv.org/pdf/1701.06699)|2017|3
-|74|MAGAN: Margin Adaptation for Generative Adversarial Networks   [[pdf]](https://arxiv.org/pdf/1704.03817.pdf)|2017|2
-|75|CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training  [[pdf]](https://arxiv.org/pdf/1703.10155.pdf)|2017|2
-|76|Multi-Agent Diverse Generative Adversarial Networks (MAD-GAN) [[pdf]](https://arxiv.org/pdf/1704.02906.pdf)|2017|2
-|77|Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN) [[pdf]](https://arxiv.org/pdf/1703.10593.pdf)|2017|2
-|78|Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (DiscoGAN)[[pdf]](https://arxiv.org/pdf/1703.05192.pdf)|2017|2
-|79|DualGAN: Unsupervised Dual Learning for Image-to-Image Translation   [[pdf]](https://arxiv.org/pdf/1704.02510.pdf)|2017|2
-|80|Image De-raining Using a Conditional Generative Adversarial Network (ID-CGAN) [[pdf]](https://arxiv.org/pdf/1701.05957)|2017|2
-|81|C-RNN-GAN: Continuous recurrent neural networks with adversarial training   [[pdf]](https://arxiv.org/pdf/1611.09904.pdf)|2016|2
-|82|Generative Multi-Adversarial Networks [[pdf]](https://arxiv.org/pdf/1611.01673.pdf)|2016|2
-|83|Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts (AL-CGAN) [[pdf]](https://arxiv.org/pdf/1612.00215.pdf)|2016|2
-|84|BEGAN: Boundary Equilibrium Generative Adversarial Networks   [[pdf]](https://arxiv.org/pdf/1703.10717.pdf)|2017|2
-|85|Boundary-Seeking Generative Adversarial Networks (BS-GAN) [[pdf]](https://arxiv.org/pdf/1702.08431.pdf)|2017|2
-|86|SEGAN: Speech Enhancement Generative Adversarial Network   [[pdf]](https://arxiv.org/pdf/1703.09452.pdf)|2017|2
-|87|SeGAN: Segmenting and Generating the Invisible  [[pdf]](https://arxiv.org/pdf/1703.10239.pdf)|2017|2
-|88|Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities (LS-GAN) [[pdf]](https://arxiv.org/pdf/1701.06264.pdf)|2017|2
-|89|AdaGAN: Boosting Generative Models [[pdf]](https://arxiv.org/pdf/1701.02386.pdf)|2017|2
-|90|Unsupervised Image-to-Image Translation with Generative Adversarial Networks  [[pdf]](https://arxiv.org/pdf/1701.02676.pdf)|2017|2
-|91|Robust LSTM-Autoencoders for Face De-Occlusion in the Wild  [[pdf]](https://arxiv.org/pdf/1612.08534.pdf)|2016|2
-|92|Disentangled Representation Learning GAN for Pose-Invariant Face Recognition  [[pdf]](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)|2017|2
-|93|Adversarial Discriminative Domain Adaptation [[pdf]](https://arxiv.org/pdf/1702.05464)|2017|2
-|94|Generalization and Equilibrium in Generative Adversarial Nets (GANs) [[pdf]](https://arxiv.org/pdf/1703.00573)|2017|2
-|95|Inverting The Generator Of A Generative Adversarial Network [[pdf]](https://arxiv.org/pdf/1611.05644)|2016|2
-|96|Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN (MalGAN) [[pdf]](https://arxiv.org/pdf/1702.05983.pdf)|2016|1
-|97|Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks (SSL-GAN) [[pdf]](https://arxiv.org/pdf/1611.06430.pdf)|2016|1
-|98|Ensembles of Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1612.00991.pdf)|2016|1
-|99|Improved generator objectives for GANs [[pdf]](https://arxiv.org/pdf/1612.02780.pdf)|2017|1
-|100|Precise Recovery of Latent Vectors from Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1702.04782)|2016|1
-|101|Least Squares Generative Adversarial Networks (LSGAN) [[pdf]](https://pdfs.semanticscholar.org/0bbc/35bdbd643fb520ce349bdd486ef2c490f1fc.pdf)|2017|1
-|102|McGan: Mean and Covariance Feature Matching GAN   [[pdf]](https://arxiv.org/pdf/1702.08398.pdf)|2017|1
-|103|Generalization and Equilibrium in Generative Adversarial Nets (MIX+GAN) [[pdf]](https://arxiv.org/pdf/1703.00573.pdf)|2016|1
-|104|3D Shape Induction from 2D Views of Multiple Objects (PrGAN) [[pdf]](https://arxiv.org/pdf/1612.05872.pdf)|2016|1
-|105|Adversarial Training For Sketch Retrieval (SketchGAN) [[pdf]](https://arxiv.org/pdf/1607.02748.pdf)|2016|1
-|106|RenderGAN: Generating Realistic Labeled Data   [[pdf]](https://arxiv.org/pdf/1611.01331.pdf)|2016|1
-|107|Texture Synthesis with Spatial Generative Adversarial Networks (SGAN) [[pdf]](https://arxiv.org/pdf/1611.08207.pdf)|2016|1
-|108|SAD-GAN: Synthetic Autonomous Driving using Generative Adversarial Networks   [[pdf]](https://arxiv.org/pdf/1611.08788.pdf)|2017|1
-|109|Message Passing Multi-Agent GANs (MPM-GAN) [[pdf]](https://arxiv.org/pdf/1612.01294.pdf)|2017|1
-|110|Improved Training of Wasserstein GANs (WGAN-GP) [[pdf]](https://arxiv.org/pdf/1704.00028.pdf)|2017|1
-|111|Deep and Hierarchical Implicit Models (Bayesian GAN) [[pdf]](https://arxiv.org/pdf/1702.08896.pdf)|2017|1
-|112|A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection  [[pdf]](https://arxiv.org/pdf/1704.03414.pdf)|2017|1
-|113|Maximum-Likelihood Augmented Discrete Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1702.07983)|2017|1
-|114|Simple Black-Box Adversarial Perturbations for Deep Networks [[pdf]](https://arxiv.org/pdf/1612.06299)|2016|1
+|7|Context Encoders: Feature Learning by Inpainting [[pdf]](https://arxiv.org/pdf/1604.07379)|2016|96
+|8|Deep multi-scale video prediction beyond mean square error [[pdf]](https://arxiv.org/pdf/1511.05440.pdf)|2015|94
+|9|Generative Adversarial Text to Image Synthesis [[pdf]](https://arxiv.org/pdf/1605.05396)|2016|94
+|10| :arrow_up_small: Adversarial Autoencoders [[pdf]](https://arxiv.org/pdf/1511.05644.pdf)|2015|91
+|11|InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [[pdf]](https://arxiv.org/pdf/1606.03657)|2016|86
+|12|Autoencoding beyond pixels using a learned similarity metric (VAE-GAN) [[pdf]](https://arxiv.org/pdf/1512.09300.pdf)|2015|80
+|13| :arrow_up_small: Wasserstein GAN (WGAN) [[pdf]](https://arxiv.org/pdf/1701.07875.pdf)|2017|80
+|14| :arrow_up_small: Image-to-Image Translation with Conditional Adversarial Networks (pix2pix) [[pdf]](https://arxiv.org/pdf/1611.07004.pdf)|2016|79
+|15|Generative Moment Matching Networks [[pdf]](https://arxiv.org/pdf/1502.02761.pdf)|2015|78
+|16|Energy-based Generative Adversarial Network (EBGAN) [[pdf]](https://arxiv.org/pdf/1609.03126.pdf)|2016|76
+|17|Conditional Image Generation with PixelCNN Decoders [[pdf]](https://arxiv.org/pdf/1606.05328.pdf)|2015|69
+|18| :arrow_up_small: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN) [[pdf]](https://arxiv.org/pdf/1609.04802.pdf)|2016|68
+|19| :arrow_up_small: Adversarial Feature Learning (BiGAN) [[pdf]](https://arxiv.org/pdf/1605.09782v6.pdf)|2016|59
+|20| :arrow_up_small: f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization [[pdf]](https://arxiv.org/pdf/1606.00709.pdf)|2016|55
+|21|Generating Images with Perceptual Similarity Metrics based on Deep Networks  [[pdf]](https://arxiv.org/pdf/1602.02644)|2016|54
+|22|Practical Black-Box Attacks against Deep Learning Systems using Adversarial Examples [[pdf]](https://arxiv.org/pdf/1602.02697.pdf)|2016|50
+|23| :arrow_up_small: Adversarially Learned Inference (ALI) [[pdf]](https://arxiv.org/pdf/1606.00704.pdf)|2016|49
+|24|Generative Visual Manipulation on the Natural Image Manifold (iGAN) [[pdf]](https://arxiv.org/pdf/1609.03552.pdf)|2016|47
+|25|Improving Variational Inference with Inverse Autoregressive Flow [[pdf]](https://arxiv.org/pdf/1606.04934)|2016|47
+|26|Generative Image Modeling using Style and Structure Adversarial Networks (S^2GAN) [[pdf]](https://arxiv.org/pdf/1603.05631.pdf)|2016|41
+|27| :arrow_up_small: Unsupervised Learning for Physical Interaction through Video Prediction  [[pdf]](https://arxiv.org/pdf/1605.07157)|2016|41
+|28| :arrow_up_small: Generating Videos with Scene Dynamics (VGAN) [[pdf]](http://web.mit.edu/vondrick/tinyvideo/paper.pdf)|2016|41
+|29| :arrow_up_small: Training generative neural networks via Maximum Mean Discrepancy optimization [[pdf]](https://arxiv.org/pdf/1505.03906.pdf)|2015|39
+|30|Conditional generative adversarial nets for convolutional face generation[[pdf]](https://pdfs.semanticscholar.org/42f6/f5454dda99d8989f9814989efd50fe807ee8.pdf)|2014|37
+|31| :arrow_up_small: Towards Principled Methods for Training Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1701.04862.pdf)|2017|37
+|32|Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks (CatGAN) [[pdf]](https://arxiv.org/pdf/1511.06390.pdf)|2015|35
+|33|Generating images with recurrent adversarial networks [[pdf]](https://arxiv.org/pdf/1602.05110.pdf)|2016|33
+|34|Attend, infer, repeat: Fast scene understanding with generative models [[pdf]](https://arxiv.org/pdf/1603.08575.pdf)|2016|31
+|35| :arrow_up_small: Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling (3D-GAN) [[pdf]](https://arxiv.org/pdf/1610.07584)|2016|31
+|36|Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks (MGAN) [[pdf]](https://arxiv.org/pdf/1604.04382.pdf)|2016|30
+|37| :arrow_up_small: Coupled Generative Adversarial Networks (CoGAN) [[pdf]](https://arxiv.org/pdf/1606.07536)|2016|30
+|38| :arrow_up_small: Conditional Image Synthesis with Auxiliary Classifier GANs (AC-GAN) [[pdf]](https://arxiv.org/pdf/1610.09585.pdf)|2016|30
+|39| :arrow_up_small: Unrolled Generative Adversarial Networks (Unrolled GAN) [[pdf]](https://arxiv.org/pdf/1611.02163.pdf)|2016|29
+|40|Synthesizing the preferred inputs for neurons in neural networks via deep generator networks  [[pdf]](https://arxiv.org/pdf/1605.09304)|2016|28
+|41|StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks   [[pdf]](https://arxiv.org/pdf/1612.03242.pdf)|2016|28
+|42|SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient   [[pdf]](https://arxiv.org/pdf/1609.05473.pdf)|2016|28
+|43| :arrow_up_small: Amortised MAP Inference for Image Super-resolution (AffGAN) [[pdf]](https://arxiv.org/pdf/1610.04490.pdf)|2016|27
+|44| :arrow_up_small: Learning in Implicit Generative Models [[pdf]](https://arxiv.org/pdf/1610.03483.pdf)|2016|25
+|45| :arrow_up_small: Unsupervised Cross-Domain Image Generation (DTN) [[pdf]](https://arxiv.org/pdf/1611.02200.pdf)|2016|24
+|46|Semantic Image Inpainting with Perceptual and Contextual Losses  [[pdf]](https://arxiv.org/pdf/1607.07539.pdf)|2016|23
+|47|Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space (PPGN) [[pdf]](https://arxiv.org/pdf/1612.00005.pdf)|2016|22
+|48|VIME: Variational Information Maximizing Exploration [[pdf]](https://arxiv.org/pdf/1605.09674)|2016|21
+|49|Generative Adversarial Imitation Learning [[pdf]](https://arxiv.org/pdf/1606.03476)|2016|20
+|50| :arrow_up_small: Learning What and Where to Draw (GAWWN) [[pdf]](https://arxiv.org/pdf/1610.02454v1.pdf)|2016|20
+|51|Pixel-Level Domain Transfer  [[pdf]](https://arxiv.org/pdf/1603.07442)|2016|16
+|52| :arrow_up_small: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN) [[pdf]](https://arxiv.org/pdf/1703.10593.pdf)|2017|16
+|53| :arrow_up_small: Neural Photo Editing with Introspective Adversarial Networks (IAN) [[pdf]](https://arxiv.org/pdf/1609.07093.pdf)|2016|15
+|54| :arrow_up_small: Learning from Simulated and Unsupervised Images through Adversarial Training (SimGAN) by Apple [[pdf]](https://arxiv.org/pdf/1612.07828v1.pdf)|2016|15
+|55| :arrow_up_small: BEGAN: Boundary Equilibrium Generative Adversarial Networks   [[pdf]](https://arxiv.org/pdf/1703.10717.pdf)|2017|15
+|56|On the Quantitative Analysis of Decoder-Based Generative Models [[pdf]](https://arxiv.org/pdf/1611.04273.pdf)|2016|14
+|57|Full Resolution Image Compression with Recurrent Neural Networks[[pdf]](https://arxiv.org/pdf/1608.05148)|2016|13
+|58|Semantic Segmentation using Adversarial Networks  [[pdf]](https://arxiv.org/pdf/1611.08408.pdf)|2016|12
+|59| :arrow_up_small: Learning to Protect Communications with Adversarial Neural Cryptography[[pdf]](https://arxiv.org/pdf/1610.06918)|2016|11
+|60| :arrow_up_small: Adversarial Discriminative Domain Adaptation [[pdf]](https://arxiv.org/pdf/1702.05464)|2017|10
+|61| :arrow_up_small: Generalization and Equilibrium in Generative Adversarial Nets (GANs) [[pdf]](https://arxiv.org/pdf/1703.00573)|2017|9
+|62| :arrow_up_small: Generalization and Equilibrium in Generative Adversarial Nets (MIX+GAN) [[pdf]](https://arxiv.org/pdf/1703.00573.pdf)|2016|9
+|63|Mode Regularized Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1612.02136)|2016|8
+|64|Learning a Driving Simulator[[pdf]](https://arxiv.org/pdf/1608.01230)|2016|8
+|65|Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro[[pdf]](https://arxiv.org/pdf/1701.07717)|2017|8
+|66| :arrow_up_small: Connecting Generative Adversarial Networks and Actor-Critic Methods [[pdf]](https://arxiv.org/pdf/1610.01945.pdf)|2016|8
+|67| :arrow_up_small: Learning to Discover Cross-Domain Relations with Generative Adversarial Networks (DiscoGAN)[[pdf]](https://arxiv.org/pdf/1703.05192.pdf)|2017|8
+|68| :arrow_up_small: Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities (LS-GAN) [[pdf]](https://arxiv.org/pdf/1701.06264.pdf)|2017|8
+|69|Cooperative Training of Descriptor and Generator Network [[pdf]](https://arxiv.org/pdf/1609.09408)|2016|6
+|70| :arrow_up_small: Invertible Conditional GANs for image editing (IcGAN) [[pdf]](https://arxiv.org/pdf/1611.06355.pdf)|2016|6
+|71| :arrow_up_small: Generative Multi-Adversarial Networks [[pdf]](https://arxiv.org/pdf/1611.01673.pdf)|2016|6
+|72| :arrow_up_small: Boundary-Seeking Generative Adversarial Networks (BS-GAN) [[pdf]](https://arxiv.org/pdf/1702.08431.pdf)|2017|6
+|73| :arrow_up_small: AdaGAN: Boosting Generative Models [[pdf]](https://arxiv.org/pdf/1701.02386.pdf)|2017|6
+|74|Stacked Generative Adversarial Networks (SGAN) [[pdf]](https://arxiv.org/pdf/1612.04357.pdf)|2016|5
+|75| :arrow_up_small: Adversarial Attacks on Neural Network Policies[[pdf]](https://arxiv.org/pdf/1702.02284.pdf)|2017|5
+|76|LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation  [[pdf]](https://arxiv.org/pdf/1703.01560.pdf)|2017|5
+|77|Contextual RNN-GANs for Abstract Reasoning Diagram Generation (Context-RNN-GAN) [[pdf]](https://arxiv.org/pdf/1609.09444.pdf)|2016|5
+|78| :arrow_up_small: Disentangled Representation Learning GAN for Pose-Invariant Face Recognition  [[pdf]](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)|2017|5
+|79|Temporal Generative Adversarial Nets (TGAN) [[pdf]](https://arxiv.org/pdf/1611.06624.pdf)|2016|4
+|80| :arrow_up_small: C-RNN-GAN: Continuous recurrent neural networks with adversarial training   [[pdf]](https://arxiv.org/pdf/1611.09904.pdf)|2016|4
+|81| :arrow_up_small: McGan: Mean and Covariance Feature Matching GAN   [[pdf]](https://arxiv.org/pdf/1702.08398.pdf)|2017|4
+|82|Imitating Driver Behavior with Generative Adversarial Networks[[pdf]](https://arxiv.org/pdf/1701.06699)|2017|3
+|83|DualGAN: Unsupervised Dual Learning for Image-to-Image Translation   [[pdf]](https://arxiv.org/pdf/1704.02510.pdf)|2017|3
+|84| :arrow_up_small: Unsupervised Image-to-Image Translation with Generative Adversarial Networks  [[pdf]](https://arxiv.org/pdf/1701.02676.pdf)|2017|3
+|85| :arrow_up_small: Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN (MalGAN) [[pdf]](https://arxiv.org/pdf/1702.05983.pdf)|2016|3
+|86|Semi-Supervised Learning with Context-Conditional Generative Adversarial Networks (SSL-GAN) [[pdf]](https://arxiv.org/pdf/1611.06430.pdf)|2016|3
+|87| :arrow_up_small: Improved generator objectives for GANs [[pdf]](https://arxiv.org/pdf/1612.02780.pdf)|2017|3
+|88| :arrow_up_small: 3D Shape Induction from 2D Views of Multiple Objects (PrGAN) [[pdf]](https://arxiv.org/pdf/1612.05872.pdf)|2016|3
+|89|Learning to Generate Images of Outdoor Scenes from Attributes and Semantic Layouts (AL-CGAN) [[pdf]](https://arxiv.org/pdf/1612.00215.pdf)|2016|2
+|90|SEGAN: Speech Enhancement Generative Adversarial Network   [[pdf]](https://arxiv.org/pdf/1703.09452.pdf)|2017|2
+|91|SeGAN: Segmenting and Generating the Invisible  [[pdf]](https://arxiv.org/pdf/1703.10239.pdf)|2017|2
+|92|Robust LSTM-Autoencoders for Face De-Occlusion in the Wild  [[pdf]](https://arxiv.org/pdf/1612.08534.pdf)|2016|2
+|93|Inverting The Generator Of A Generative Adversarial Network [[pdf]](https://arxiv.org/pdf/1611.05644)|2016|2
+|94|Ensembles of Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1612.00991.pdf)|2016|2
+|95|Precise Recovery of Latent Vectors from Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1702.04782)|2016|2
+|96| :arrow_up_small: RenderGAN: Generating Realistic Labeled Data   [[pdf]](https://arxiv.org/pdf/1611.01331.pdf)|2016|2
+|97|Texture Synthesis with Spatial Generative Adversarial Networks (SGAN) [[pdf]](https://arxiv.org/pdf/1611.08207.pdf)|2016|2
+|98|Least Squares Generative Adversarial Networks (LSGAN) [[pdf]](https://pdfs.semanticscholar.org/0bbc/35bdbd643fb520ce349bdd486ef2c490f1fc.pdf)|2017|1
+|99|Adversarial Training For Sketch Retrieval (SketchGAN) [[pdf]](https://arxiv.org/pdf/1607.02748.pdf)|2016|1
+|100|SAD-GAN: Synthetic Autonomous Driving using Generative Adversarial Networks   [[pdf]](https://arxiv.org/pdf/1611.08788.pdf)|2017|1
+|101|Message Passing Multi-Agent GANs (MPM-GAN) [[pdf]](https://arxiv.org/pdf/1612.01294.pdf)|2017|1
+|102|Improved Training of Wasserstein GANs (WGAN-GP) [[pdf]](https://arxiv.org/pdf/1704.00028.pdf)|2017|1
+|103|Deep and Hierarchical Implicit Models (Bayesian GAN) [[pdf]](https://arxiv.org/pdf/1702.08896.pdf)|2017|1
+|104|A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection  [[pdf]](https://arxiv.org/pdf/1704.03414.pdf)|2017|1
+|105|Maximum-Likelihood Augmented Discrete Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1702.07983)|2017|1
+|106|Simple Black-Box Adversarial Perturbations for Deep Networks [[pdf]](https://arxiv.org/pdf/1612.06299)|2016|1
+|107|ArtGAN: Artwork Synthesis with Conditional Categorial GANs  [[pdf]](https://arxiv.org/pdf/1702.03410.pdf)|2017|0
+|108|GP-GAN: Towards Realistic High-Resolution Image Blending  [[pdf]](https://arxiv.org/pdf/1703.07195.pdf)|2017|0
+|109|Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery (AnoGAN) [[pdf]](https://arxiv.org/pdf/1703.05921.pdf)|2017|0
+|110|Generative Adversarial Nets with Labeled Data by Activation Maximization (AMGAN) [[pdf]](https://arxiv.org/pdf/1703.02000.pdf)|2017|0
+|111|MAGAN: Margin Adaptation for Generative Adversarial Networks   [[pdf]](https://arxiv.org/pdf/1704.03817.pdf)|2017|0
+|112|CVAE-GAN: Fine-Grained Image Generation through Asymmetric Training  [[pdf]](https://arxiv.org/pdf/1703.10155.pdf)|2017|0
+|113|Multi-Agent Diverse Generative Adversarial Networks (MAD-GAN) [[pdf]](https://arxiv.org/pdf/1704.02906.pdf)|2017|0
+|114|Image De-raining Using a Conditional Generative Adversarial Network (ID-CGAN) [[pdf]](https://arxiv.org/pdf/1701.05957)|2017|0
 |115|Generative Mixture of Networks [[pdf]](https://arxiv.org/pdf/1702.03307.pdf)|2017|0
 |116|Generative Temporal Models with Memory [[pdf]](https://arxiv.org/pdf/1702.04649.pdf)|2017|0
 |117|Stopping GAN Violence: Generative Unadversarial Networks [[pdf]](https://arxiv.org/pdf/1703.02528.pdf)|2016|0
@@ -229,17 +229,21 @@ S/N|Paper|Year|Citations
 |187|Weakly Supervised Generative Adversarial Networks for 3D Reconstruction [[pdf]](https://arxiv.org/abs/1705.10904)|2017|0
 |188|Adversarial Generation of Natural Language[[pdf]](https://arxiv.org/abs/1705.10929)|2017|0
 |189|Objective-Reinforced Generative Adversarial Networks (ORGAN)[[pdf]](https://arxiv.org/pdf/1705.10843.pdf)|2017|0
-|190|:new:SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation[[pdf]](https://arxiv.org/abs/1706.01805)|2017|0
-|191|:new:Language Generation with Recurrent Generative Adversarial Networks without Pre-training[[pdf]](https://arxiv.org/abs/1706.01399)|2017|0
-|192|:new:DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data[[pdf]](https://arxiv.org/abs/1706.02071)|2017|0
-|193|:new:Depth Structure Preserving Scene Image Generation[[pdf]](https://arxiv.org/abs/1706.00212)|2017|0
-|194|:new:From source to target and back: symmetric bi-directional adaptive GAN[[pdf]](https://arxiv.org/abs/1705.08824)|2017|0
-|195|:new:Synthesizing Filamentary Structured Images with GANs[[pdf]](https://arxiv.org/abs/1706.02185)|2017|0
-|196|:new:TextureGAN: Controlling Deep Image Synthesis with Texture Patches[[pdf]](https://arxiv.org/abs/1706.02823)|2017|0
-|197|:new:Generate Identity-Preserving Faces by Generative Adversarial Networks[[pdf]](https://arxiv.org/abs/1706.03227)|2017|0
-|198|:new:Style Transfer for Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN[[pdf]](https://arxiv.org/abs/1706.03319)|2017|0
-|199|:new:Gradient descent GAN optimization is locally stable[[pdf]](https://arxiv.org/abs/1706.04156)|2017|0
-|200|:new:Neural Face Editing with Intrinsic Image Disentangling[[pdf]](https://arxiv.org/abs/1704.04131)|2017|0
+|190| :new: SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation [[pdf]](https://arxiv.org/abs/1706.01805)|2017|0
+|191| :new: Language Generation with Recurrent Generative Adversarial Networks without Pre-training [[pdf]](https://arxiv.org/abs/1706.01399)|2017|0
+|192| :new: DeLiGAN : Generative Adversarial Networks for Diverse and Limited Data [[pdf]](https://arxiv.org/abs/1706.02071)|2017|0
+|193| :new: Depth Structure Preserving Scene Image Generation [[pdf]](https://arxiv.org/abs/1706.00212)|2017|0
+|194| :new: From source to target and back: symmetric bi-directional adaptive GAN[[pdf]](https://arxiv.org/abs/1705.08824)|2017|0
+|195| :new: Synthesizing Filamentary Structured Images with GANs [[pdf]](https://arxiv.org/abs/1706.02185)|2017|0
+|196| :new: TextureGAN: Controlling Deep Image Synthesis with Texture Patches [[pdf]](https://arxiv.org/abs/1706.02823)|2017|0
+|197| :new: Generate Identity-Preserving Faces by Generative Adversarial Networks [[pdf]](https://arxiv.org/abs/1706.03227)|2017|0
+|198| :new: Style Transfer for Sketches with Enhanced Residual U-net and Auxiliary Classifier GAN [[pdf]](https://arxiv.org/abs/1706.03319)|2017|0
+|199| :new: Gradient descent GAN optimization is locally stable [[pdf]](https://arxiv.org/abs/1706.04156)|2017|0
+|200| :new: Neural Face Editing with Intrinsic Image Disentangling [[pdf]](https://arxiv.org/abs/1704.04131)|2017|0
+|201| :new: Interactive 3D Modeling with a Generative Adversarial Network[[pdf]](https://arxiv.org/abs/1706.05170)|2017|0
+|202| :new: Perceptual Generative Adversarial Networks for Small Object Detection[[pdf]](https://arxiv.org/abs/1706.05274)|2017|0
+|203| :new: CAN: Creative Adversarial Networks Generating “Art” by Learning About Styles and Deviating from Style Norms[[pdf]](https://arxiv.org/pdf/1706.07068.pdf)|2017|0
+
 
 
 
