@@ -311,7 +311,7 @@ S/N|Paper|Year|Citations
 |263|A step towards procedural terrain generation with GANs [[pdf]](https://arxiv.org/pdf/1707.03383.pdf)|2017|1
 |264|Adversarial Networks for Spatial Context-Aware Spectral Image Reconstruction from RGB [[pdf]](https://arxiv.org/pdf/1709.00265.pdf)|2017|1
 |265|Controllable Generative Adversarial Network [[pdf]](https://arxiv.org/pdf/1708.00598.pdf)|2017|1
-|266|Learning a Generative Adversarial Network for High Resolution Artwork Synthesis [[pdf]](https://arxiv.org/pdf/1708.09533.pdf)|2017|1
+|266|Improved ArtGAN for Conditional Synthesis of Natural Image and Artwork [[pdf]](https://arxiv.org/pdf/1708.09533.pdf)|2017|1
 |267|Microscopy Cell Segmentation via Adversarial Neural Networks  [[pdf]](https://arxiv.org/pdf/1709.05860.pdf)|2017|1
 |268|Neural Stain-Style Transfer Learning using GAN for Histopathological Images [[pdf]](https://arxiv.org/pdf/1710.08543.pdf)|2017|1
 |269|Deep and Hierarchical Implicit Models (Bayesian GAN)  [[pdf]](https://arxiv.org/pdf/1702.08896.pdf)|2017|0
