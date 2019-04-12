@@ -1,7 +1,7 @@
-# Delving deep into Generative Adversarial Networks (GANs) 	
+# Delving deep into Generative Adversarial Networks (GANs) 	[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Delving%20deep%20into%20Generative%20Adversarial%20Networks.%20&url=https://github.com/GKalliatakis/Delving-deep-into-GANs&via=GKalliatakis&hashtags=GANs,paper,code,github)
 
 
-## A curated, quasi-exhaustive list of state-of-the-art publications and resources about Generative Adversarial Networks (GANs) and their applications.
+## A curated, quasi-exhaustive list of state-of-the-art publications and resources about Generative Adversarial Networks (GANs) and their applications. 
 
 ### Background
 Generative models are models that can learn to create data that is similar to data that we give them. One of the most promising approaches of those models are Generative Adversarial Networks (GANs), a branch of unsupervised machine learning implemented by a system of two neural networks competing against each other in a zero-sum game framework. They were first introduced by Ian Goodfellow et al. in 2014. This repository aims at presenting an elaborate list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.
