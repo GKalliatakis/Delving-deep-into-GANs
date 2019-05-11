@@ -354,8 +354,9 @@ S/N|Paper|Year|Citations
 
 ### :nut_and_bolt: Presentations / Books
 - Generative Adversarial Networks (GANs) by Ian Goodfellow [[pdf]](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf) 	
-- Learning Deep Generative Models by Russ Salakhutdinov [[pdf]](http://www.cs.toronto.edu/~rsalakhu/talk_Montreal_2016_Salakhutdinov.pdf)
-- [GANs in Action: Deep learning with Generative Adversarial Networks](https://www.manning.com/books/gans-in-action) 	
+- Learning Deep Generative Models by Ruslan Salakhutdinov [[presentation]](https://slideplayer.com/slide/12912305/)
+
+- GANs in Action: Deep learning with Generative Adversarial Networks [[link to book]](https://www.manning.com/books/gans-in-action) 	
 
 ----------
 
